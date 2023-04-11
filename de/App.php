@@ -1,7 +1,7 @@
 <?php return [
 
   '@meta' => [
-    'language' => 'German',
+    'language' => 'Deutsch',
   ],
 
   'API & Security' => 'API & Sicherheit',
@@ -20,6 +20,7 @@
   'Admin UI language' => 'Admin UI Sprache',
   'Admin user' => 'Admin-Benutzer',
   'All' => 'Alle',
+  'All fields' => 'Alle Felder',
   'All groups' => 'Alle Gruppen',
   'Api key copied!' => 'Api-Schlüssel kopiert!',
   'Api key created!' => 'Api-Schlüssel erstellt!',
@@ -73,7 +74,7 @@
   'Locale' => 'Gebietsschema',
   'Locale created!' => 'Gebietsschema erstellt!',
   'Locale updated!' => 'Gebietsschema aktualisiert!',
-  'Locales' => 'Lokale',
+  'Locales' => 'Gebietsschemas',
   'Log in' => 'Einloggen',
   'Login failed.' => 'Anmeldung fehlgeschlagen.',
   'Logout' => 'Abmeldung',
@@ -124,6 +125,7 @@
   'Show or hide field based on a condition' => 'Feld basierend auf einer Bedingung ein- oder ausblenden',
   'Space created' => 'Raum erstellt',
   'Spaces' => 'Spaces',
+  'State' => 'Status',
   'Switch locale' => 'Gebietsschema wechseln',
   'System' => 'System',
   'Target' => 'Ziel',

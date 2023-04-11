@@ -6,7 +6,7 @@
   'No sync key defined in the config' => 'Kein Sync-Schlüssel in der Konfiguration definiert',
   'No sync targets defined' => 'Keine Sync-Ziele definiert',
   'No targets defined' => 'Keine Ziele definiert',
-  'Page Sync' => 'Seite Sync',
+  'Page Sync' => 'Seite synchronisieren',
   'Run' => 'ausführen.',
   'Running sync job' => 'Synchronisierungsauftrag läuft',
   'Save settings' => 'Einstellungen speichern',
