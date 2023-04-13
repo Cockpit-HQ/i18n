@@ -9,7 +9,7 @@
   'Document' => 'Dokument',
   'Document removed!' => 'Dokument entfernt!',
   'Document updated!' => 'Dokument aktualisiert!',
-  'Empty index' => 'Leerer Index',
+  'Empty index' => 'Index leeren',
   'Fields' => 'Felder',
   'Index emptied!' => 'Index geleert!',
   'Index name copied to clipboard!' => 'Indexname in die Zwischenablage kopiert!',
