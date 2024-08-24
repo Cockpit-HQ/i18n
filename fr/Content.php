@@ -39,7 +39,7 @@
 'Items' => 'Éléments',
 'Items removed!' => 'Les éléments ont été supprimés !',
 'Items updated!' => 'Les éléments ont été mis à jour !',
-'Json Object' => 'Objet JSON',
+'JSON object' => 'Objet JSON',
 'Locales' => 'Localisations',
 'Manage' => 'Gérer',
 'Manage models' => 'Gérer les modèles',

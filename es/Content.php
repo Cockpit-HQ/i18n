@@ -38,7 +38,7 @@
     'Items' => 'Artículos',
     'Items removed!' => '¡Artículos eliminados!',
     'Items updated!' => '¡Artículos actualizados!',
-    'Json Object' => 'Objeto Json',
+    'JSON object' => 'Objeto Json',
     'Lists' => 'Listas',
     'Manage' => 'Gestionar',
     'Manage models' => 'Gestionar modelos',

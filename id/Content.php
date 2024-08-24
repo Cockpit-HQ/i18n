@@ -38,7 +38,7 @@
   'Items' => 'Item',
   'Items removed!' => 'Item dihapus!',
   'Items updated!' => 'Item diperbarui!',
-  'Json Object' => 'Objek Json',
+  'JSON object' => 'Objek JSON',
   'Lists' => 'List',
   'Manage' => 'Kelola',
   'Manage models' => 'Kelola model',

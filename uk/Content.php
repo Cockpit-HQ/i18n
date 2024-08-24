@@ -40,7 +40,7 @@
   'Items' => 'Елементи',
   'Items removed!' => 'Елементи видалено!',
   'Items updated!' => 'Елементи оновлено!',
-  'Json Object' => 'Об\'єкт JSON',
+  'JSON object' => 'Об\'єкт JSON',
   'Lists' => 'Списки',
   'Locales' => 'Локалізації',
   'Manage' => 'Керувати',
