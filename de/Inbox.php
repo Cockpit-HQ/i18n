@@ -4,6 +4,8 @@
   'Allowed fields' => 'Erlaubte Felder',
   'Allowed languages' => 'Erlaubte Sprachen',
   'Attachments' => 'Anhänge',
+  'Cancel' => 'Abbrechen',
+  'Close' => 'Schließen',
   'Color' => 'Farbe',
   'Create form' => 'Formular erstellen',
   'Delete' => 'Löschen',
@@ -19,6 +21,7 @@
   'General' => 'Allgemein',
   'Get notification about new submissions' => 'Benachrichtigung über neue Einreichungen erhalten',
   'Goto submissions' => 'Goto-Einträge',
+  'Group' => 'Gruppe',
   'Hidden field name for spam bots' => 'Versteckte Feldnamen für Spam-Bots',
   'Honeypot' => 'Honeypot',
   'Icon' => 'Ikone',
@@ -36,5 +39,6 @@
   'Submissions' => 'Einreichungen',
   'Submissions removed!' => 'Einreichungen entfernt!',
   'Update form' => 'Formular aktualisieren',
-  'Which languages should be accepted' => 'Welche Sprachen akzeptiert werden sollen'
+  'Which languages should be accepted' => 'Welche Sprachen akzeptiert werden sollen',
+  'group' => 'Gruppe',
 ];

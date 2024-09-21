@@ -1,4 +1,5 @@
 <?php return [
+  'Close' => 'Schließen',
   'Create file' => 'Datei erstellen',
   'Create folder' => 'Ordner erstellen',
   'Delete' => 'Löschen',
@@ -19,6 +20,7 @@
   'Readonly' => 'Schreibgeschützt',
   'Rename' => 'Umbenennen',
   'Reset' => 'Zurücksetzen',
+  'Save' => 'Speichern',
   'Select file' => 'Datei auswählen',
   'Settings' => 'Settings',
   'Size' => 'Größe',

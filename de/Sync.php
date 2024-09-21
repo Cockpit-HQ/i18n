@@ -1,8 +1,13 @@
 <?php return [
   'Available sync jobs' => 'Verfügbare Sync-Aufträge',
+  'Cancel' => 'Abbrechen',
+  'Cancel sync' => 'Synchronisation abbrechen',
+  'Close' => 'Schließen',
   'Content Sync' => 'Content Sync',
+  'Job finished' => 'Auftrag beendet',
   'Mode' => 'Modus',
   'Modes' => 'Modi',
+  'No sync jobs selected' => 'Keine Synchronisierungsaufträge ausgewählt',
   'No sync key defined in the config' => 'Kein Sync-Schlüssel in der Konfiguration definiert',
   'No sync targets defined' => 'Keine Sync-Ziele definiert',
   'No targets defined' => 'Keine Ziele definiert',

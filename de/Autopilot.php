@@ -1,0 +1,17 @@
+<?php return [
+  'AI actions' => 'AI-Aktionen',
+  'Accept suggestion' => 'Vorschlag annehmen',
+  'Cancel' => 'Abbrechen',
+  'Choose image' => 'Bild auswählen',
+  'Generating image' => 'Bild generieren',
+  'Generating text' => 'Text generieren',
+  'Image Generation' => 'Bilderzeugung',
+  'Importing image' => 'Importing image',
+  'Message content copied to clipboard' => 'Nachrichteninhalt in die Zwischenablage kopiert',
+  'Oops! Something went wrong.' => 'Ups! Etwas ist schief gelaufen.',
+  'Size' => 'Größe',
+  'Style' => 'Stil',
+  'Suggestion' => 'Anregung',
+  'Text Generation' => 'Textgenerierung',
+  'Workmate' => 'Workmate',
+];

@@ -1,6 +1,8 @@
 <?php return [
   'Add event' => 'Ereignis hinzufügen',
   'Add header' => 'Kopfzeile hinzufügen',
+  'Cancel' => 'Abbrechen',
+  'Close' => 'Schließen',
   'Create webhook' => 'Webhook erstellen',
   'Custom headers' => 'Benutzerdefinierte Kopfzeilen',
   'Delete' => 'Löschen',
