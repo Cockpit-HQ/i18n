@@ -1,0 +1,17 @@
+<?php return [
+  'AI actions' => 'Akcie AI',
+  'Accept suggestion' => 'Prijať návrh',
+  'Cancel' => 'Zrušiť',
+  'Choose image' => 'Vybrať obrázok',
+  'Generating image' => 'Generovanie obrázka',
+  'Generating text' => 'Generovanie textu',
+  'Image Generation' => 'Generovanie obrázka',
+  'Importing image' => 'Importovanie obrázka',
+  'Message content copied to clipboard' => 'Obsah správy bol skopírovaný do schránky',
+  'Oops! Something went wrong.' => 'Ups! Niečo sa pokazilo.',
+  'Size' => 'Veľkosť',
+  'Style' => 'Štýl',
+  'Suggestion' => 'Návrh',
+  'Text Generation' => 'Generovanie textu',
+  'Workmate' => 'Kolega',
+];
