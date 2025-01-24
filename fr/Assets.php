@@ -15,6 +15,7 @@
 'Download' => 'Télécharger',
 'Edit' => 'Éditer',
 'Edit asset' => 'Éditer le fichier',
+'Replace asset' => 'Remplacer le fichier',
 'Folder' => 'Dossier',
 'Folder actions' => 'Actions sur le dossier',
 'Folder created!' => 'Dossier créé !',
@@ -35,5 +36,10 @@
 'Title' => 'Titre',
 'Update' => 'Mettre à jour',
 'Upload asset' => 'Téléverser un fichier',
-'none' => 'aucun'
+'none' => 'aucun',
+'Show' => 'Afficher',
+'Item' => 'Élément',
+'Created' => 'Création',
+'Search for assets or folders' => 'Recherche de ressources ou de dossiers',
+'Search...' => 'Rechercher...',
 ];

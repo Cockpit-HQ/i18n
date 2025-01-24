@@ -28,4 +28,5 @@
 'Updated' => 'Mis à jour',
 'Upload failed!' => 'Téléversement échoué !',
 'Upload file' => 'Téléverser un fichier',
+'Filter files & folders...' => 'Filtrer les fichiers & dossiers...',
 ];
