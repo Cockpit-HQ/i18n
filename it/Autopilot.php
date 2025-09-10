@@ -1,0 +1,20 @@
+<?php return [
+  '@meta' => [
+    'language' => 'Italiano',
+  ],
+  'AI actions' => 'Azioni AI',
+  'Accept suggestion' => 'Accetta suggerimento',
+  'Cancel' => 'Annulla',
+  'Choose image' => 'Scegli immagine',
+  'Generating image' => 'Generazione immagine',
+  'Generating text' => 'Generazione testo',
+  'Image Generation' => 'Generazione immagini',
+  'Importing image' => 'Importazione immagine',
+  'Message content copied to clipboard' => 'Contenuto del messaggio copiato negli appunti',
+  'Oops! Something went wrong.' => 'Ops! Qualcosa è andato storto.',
+  'Size' => 'Dimensione',
+  'Style' => 'Stile',
+  'Suggestion' => 'Suggerimento',
+  'Text Generation' => 'Generazione testo',
+  'Workmate' => 'Collega',
+];
