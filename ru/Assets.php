@@ -1,4 +1,5 @@
 <?php return [
+    'Are you sure?' => 'Вы уверены?',
     'Asset actions' => 'Действия с файлом',
     'Asset file updated!' => 'Файл обновлён!',
     'Asset link copied!' => 'Ссылка на файл скопирована!',
@@ -10,6 +11,7 @@
     'Close' => 'Закрыть',
     'Color copied!' => 'Цвет скопирован!',
     'Copy asset link' => 'Скопировать ссылку на файл',
+    'Created' => 'Создан',
     'Create folder' => 'Создать папку',
     'Delete' => 'Удалить',
     'Download' => 'Скачать',
