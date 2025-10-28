@@ -11,6 +11,7 @@
     'File updated!' => 'Файл обновлён!',
     'File(s) deleted' => 'Файл(ы) удалены',
     'File(s) size exceeds max upload size limit!' => 'Размер файла(ов) превышает максимальный размер загрузки!',
+    'Filter files & folders...' => 'Найти файлы и папки...',
     'Finder' => 'Проводник',
     'Folder actions' => 'Действия с папкой',
     'Item(s) deleted' => 'Элемент(ы) удалены',
