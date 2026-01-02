@@ -1,10 +1,9 @@
-<?php return [
-  '@meta' => [
-    'language' => 'Italiano',
-  ],
+<?php return array (
   'I acknowledge the risks' => 'Riconosco i rischi',
-  'Settings' => 'Impostazioni',
-  'System Update' => 'Aggiornamento sistema',
-  'Update' => 'Aggiorna',
-  'Your system is up to date.' => 'Il sistema è aggiornato.',
-];
+  'Latest development version' => 'Ultima versione sviluppo',
+  'Notices' => 'Avvisi',
+  'Please confirm that you have read and understood the risks of updating your system.' => 'Conferma di aver letto e compreso i rischi dell\'aggiornamento.',
+  'Select version...' => 'Seleziona versione...',
+  'System Update' => 'Aggiornamento Sistema',
+  'Your system is up to date' => 'Il sistema è aggiornato',
+);

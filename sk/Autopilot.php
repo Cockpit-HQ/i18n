@@ -1,17 +1,14 @@
-<?php return [
-  'AI actions' => 'Akcie AI',
+<?php return array (
+  'AI actions' => 'AI akcie',
   'Accept suggestion' => 'Prijať návrh',
-  'Cancel' => 'Zrušiť',
   'Choose image' => 'Vybrať obrázok',
   'Generating image' => 'Generovanie obrázka',
   'Generating text' => 'Generovanie textu',
-  'Image Generation' => 'Generovanie obrázka',
+  'Image Generation' => 'Generovanie Obrázka',
   'Importing image' => 'Importovanie obrázka',
-  'Message content copied to clipboard' => 'Obsah správy bol skopírovaný do schránky',
+  'Message content copied to clipboard' => 'Obsah správy skopírovaný do schránky',
   'Oops! Something went wrong.' => 'Ups! Niečo sa pokazilo.',
-  'Size' => 'Veľkosť',
   'Style' => 'Štýl',
-  'Suggestion' => 'Návrh',
-  'Text Generation' => 'Generovanie textu',
+  'Text Generation' => 'Generovanie Textu',
   'Workmate' => 'Kolega',
-];
+);
