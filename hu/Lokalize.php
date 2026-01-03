@@ -25,4 +25,9 @@
   'Text Translation' => 'Szövegfordítás',
   'Translate' => 'Fordítás',
   'Update project' => 'Projekt frissítése',
+  'Auto Translate' => 'Automatikus fordítás',
+  'Target Locale' => 'Célnyelv',
+  'No missing keys found' => 'Nem találhatók hiányzó kulcsok',
+  'Translating keys...' => 'Kulcsok fordítása...',
+  'Translation complete!' => 'Fordítás kész!',
 );

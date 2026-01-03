@@ -25,4 +25,9 @@
   'Text Translation' => 'Překlad textu',
   'Translate' => 'Přeložit',
   'Update project' => 'Aktualizovat projekt',
+  'Auto Translate' => 'Automatický překlad',
+  'Target Locale' => 'Cílový jazyk',
+  'No missing keys found' => 'Nebyly nalezeny žádné chybějící klíče',
+  'Translating keys...' => 'Překládám klíče...',
+  'Translation complete!' => 'Překlad dokončen!',
 );

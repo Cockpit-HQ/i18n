@@ -25,4 +25,9 @@
   'Text Translation' => 'Μετάφραση Κειμένου',
   'Translate' => 'Μετάφραση',
   'Update project' => 'Ενημέρωση έργου',
+  'Auto Translate' => 'Αυτόματη μετάφραση',
+  'Target Locale' => 'Γλώσσα στόχος',
+  'No missing keys found' => 'Δεν βρέθηκαν κλειδιά που λείπουν',
+  'Translating keys...' => 'Μετάφραση κλειδιών...',
+  'Translation complete!' => 'Η μετάφραση ολοκληρώθηκε!',
 );

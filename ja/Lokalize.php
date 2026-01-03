@@ -25,4 +25,9 @@
   'Text Translation' => 'テキスト翻訳',
   'Translate' => '翻訳',
   'Update project' => 'プロジェクトを更新',
+  'Auto Translate' => '自動翻訳',
+  'Target Locale' => 'ターゲット言語',
+  'No missing keys found' => '不足しているキーは見つかりませんでした',
+  'Translating keys...' => 'キーを翻訳中...',
+  'Translation complete!' => '翻訳完了！',
 );

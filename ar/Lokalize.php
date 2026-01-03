@@ -25,4 +25,9 @@
   'Text Translation' => 'ترجمة النص',
   'Translate' => 'ترجمة',
   'Update project' => 'تحديث المشروع',
+  'Auto Translate' => 'ترجمة تلقائية',
+  'Target Locale' => 'اللغة المستهدفة',
+  'No missing keys found' => 'لم يتم العثور على مفاتيح مفقودة',
+  'Translating keys...' => 'جاري ترجمة المفاتيح...',
+  'Translation complete!' => 'اكتملت الترجمة!',
 );

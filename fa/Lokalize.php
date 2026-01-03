@@ -25,4 +25,9 @@
   'Text Translation' => 'ترجمه متن',
   'Translate' => 'ترجمه',
   'Update project' => 'بروزرسانی پروژه',
+  'Auto Translate' => 'ترجمه خودکار',
+  'Target Locale' => 'زبان مقصد',
+  'No missing keys found' => 'هیچ کلید گم شده‌ای یافت نشد',
+  'Translating keys...' => 'در حال ترجمه کلیدها...',
+  'Translation complete!' => 'ترجمه کامل شد!',
 );

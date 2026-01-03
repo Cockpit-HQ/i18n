@@ -25,4 +25,9 @@
   'Text Translation' => 'Переклад тексту',
   'Translate' => 'Перекласти',
   'Update project' => 'Оновити проект',
+  'Auto Translate' => 'Автоматичний переклад',
+  'Target Locale' => 'Цільова мова',
+  'No missing keys found' => 'Відсутні ключі не знайдено',
+  'Translating keys...' => 'Переклад ключів...',
+  'Translation complete!' => 'Переклад завершено!',
 );

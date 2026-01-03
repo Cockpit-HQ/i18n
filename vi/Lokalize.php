@@ -25,4 +25,9 @@
   'Text Translation' => 'Dịch văn bản',
   'Translate' => 'Dịch',
   'Update project' => 'Cập nhật dự án',
+  'Auto Translate' => 'Dịch tự động',
+  'Target Locale' => 'Ngôn ngữ đích',
+  'No missing keys found' => 'Không tìm thấy khóa nào bị thiếu',
+  'Translating keys...' => 'Đang dịch các khóa...',
+  'Translation complete!' => 'Hoàn thành dịch!',
 );

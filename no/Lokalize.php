@@ -25,4 +25,9 @@
   'Text Translation' => 'Tekstoversettelse',
   'Translate' => 'Oversett',
   'Update project' => 'Oppdater prosjekt',
+  'Auto Translate' => 'Automatisk oversettelse',
+  'Target Locale' => 'Målspråk',
+  'No missing keys found' => 'Ingen manglende nøkler funnet',
+  'Translating keys...' => 'Oversetter nøkler...',
+  'Translation complete!' => 'Oversettelse fullført!',
 );

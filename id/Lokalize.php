@@ -25,4 +25,9 @@
   'Text Translation' => 'Terjemahan Teks',
   'Translate' => 'Terjemahkan',
   'Update project' => 'Perbarui proyek',
+  'Auto Translate' => 'Terjemahan Otomatis',
+  'Target Locale' => 'Bahasa Tujuan',
+  'No missing keys found' => 'Tidak ada kunci yang hilang ditemukan',
+  'Translating keys...' => 'Menerjemahkan kunci...',
+  'Translation complete!' => 'Terjemahan selesai!',
 );

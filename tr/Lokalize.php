@@ -25,4 +25,9 @@
   'Text Translation' => 'Metin Çevirisi',
   'Translate' => 'Çevir',
   'Update project' => 'Projeyi Güncelle',
+  'Auto Translate' => 'Otomatik Çeviri',
+  'Target Locale' => 'Hedef Dil',
+  'No missing keys found' => 'Eksik anahtar bulunamadı',
+  'Translating keys...' => 'Anahtarlar çevriliyor...',
+  'Translation complete!' => 'Çeviri tamamlandı!',
 );

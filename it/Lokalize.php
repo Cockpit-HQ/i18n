@@ -25,4 +25,9 @@
   'Text Translation' => 'Traduzione Testo',
   'Translate' => 'Traduci',
   'Update project' => 'Aggiorna progetto',
+  'Auto Translate' => 'Traduzione automatica',
+  'Target Locale' => 'Lingua di destinazione',
+  'No missing keys found' => 'Nessuna chiave mancante trovata',
+  'Translating keys...' => 'Traduzione delle chiavi...',
+  'Translation complete!' => 'Traduzione completata!',
 );

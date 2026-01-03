@@ -25,4 +25,9 @@
   'Text Translation' => 'Tekstvertaling',
   'Translate' => 'Vertalen',
   'Update project' => 'Project bijwerken',
+  'Auto Translate' => 'Automatisch vertalen',
+  'Target Locale' => 'Doeltaal',
+  'No missing keys found' => 'Geen ontbrekende sleutels gevonden',
+  'Translating keys...' => 'Sleutels vertalen...',
+  'Translation complete!' => 'Vertaling voltooid!',
 );

@@ -25,4 +25,9 @@
   'Text Translation' => '文字翻譯',
   'Translate' => '翻譯',
   'Update project' => '更新專案',
+  'Auto Translate' => '自動翻譯',
+  'Target Locale' => '目標語言',
+  'No missing keys found' => '未找到缺失的鍵',
+  'Translating keys...' => '正在翻譯鍵...',
+  'Translation complete!' => '翻譯完成！',
 );

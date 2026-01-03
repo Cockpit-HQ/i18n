@@ -25,4 +25,9 @@
   'Text Translation' => 'पाठ अनुवाद',
   'Translate' => 'अनुवाद करें',
   'Update project' => 'प्रोजेक्ट अपडेट करें',
+  'Auto Translate' => 'स्वचालित अनुवाद',
+  'Target Locale' => 'लक्ष्य भाषा',
+  'No missing keys found' => 'कोई लापता कुंजी नहीं मिली',
+  'Translating keys...' => 'कुंजियाँ अनुवाद कर रहा है...',
+  'Translation complete!' => 'अनुवाद पूरा हुआ!',
 );

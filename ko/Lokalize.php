@@ -25,4 +25,9 @@
   'Text Translation' => '텍스트 번역',
   'Translate' => '번역',
   'Update project' => '프로젝트 업데이트',
+  'Auto Translate' => '자동 번역',
+  'Target Locale' => '대상 언어',
+  'No missing keys found' => '누락된 키를 찾을 수 없습니다',
+  'Translating keys...' => '키 번역 중...',
+  'Translation complete!' => '번역 완료!',
 );

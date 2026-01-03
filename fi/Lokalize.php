@@ -25,4 +25,9 @@
   'Text Translation' => 'Tekstin käännös',
   'Translate' => 'Käännä',
   'Update project' => 'Päivitä projekti',
+  'Auto Translate' => 'Automaattinen käännös',
+  'Target Locale' => 'Kohdekieli',
+  'No missing keys found' => 'Puuttuvia avaimia ei löytynyt',
+  'Translating keys...' => 'Käännetään avaimia...',
+  'Translation complete!' => 'Käännös valmis!',
 );
