@@ -320,4 +320,6 @@
   'Your Email' => '您的电子邮箱',
   'group' => '组',
   'i18n' => '国际化',
+  'Action verification' => '操作验证',
+  'Please enter your password to verify this action' => '请输入您的密码以验证此操作',
 );

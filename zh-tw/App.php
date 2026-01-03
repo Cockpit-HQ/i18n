@@ -320,4 +320,6 @@
   'Your Email' => '您的電子郵件',
   'group' => '群組',
   'i18n' => '國際化',
+  'Action verification' => '操作驗證',
+  'Please enter your password to verify this action' => '請輸入您的密碼以驗證此操作',
 );

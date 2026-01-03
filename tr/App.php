@@ -320,4 +320,6 @@
   'Your Email' => 'E-postanız',
   'group' => 'Grup',
   'i18n' => 'i18n',
+  'Action verification' => 'Eylem doğrulama',
+  'Please enter your password to verify this action' => 'Bu işlemi doğrulamak için lütfen şifrenizi girin',
 );

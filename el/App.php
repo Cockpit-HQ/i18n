@@ -320,4 +320,6 @@
   'Your Email' => 'Το Email σας',
   'group' => 'ομάδα',
   'i18n' => 'i18n',
+  'Action verification' => 'Επαλήθευση ενέργειας',
+  'Please enter your password to verify this action' => 'Παρακαλώ εισάγετε τον κωδικό πρόσβασής σας για να επαληθεύσετε αυτή την ενέργεια',
 );

@@ -320,4 +320,6 @@
   'Your Email' => 'Surel Anda',
   'group' => 'grup',
   'i18n' => 'i18n',
+  'Action verification' => 'Verifikasi tindakan',
+  'Please enter your password to verify this action' => 'Silakan masukkan kata sandi Anda untuk memverifikasi tindakan ini',
 );

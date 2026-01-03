@@ -320,4 +320,6 @@
   'Your Email' => 'आपका ईमेल',
   'group' => 'समूह',
   'i18n' => 'i18n',
+  'Action verification' => 'कार्रवाई सत्यापन',
+  'Please enter your password to verify this action' => 'कृपया इस कार्रवाई को सत्यापित करने के लिए अपना पासवर्ड दर्ज करें',
 );

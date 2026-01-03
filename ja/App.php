@@ -320,4 +320,6 @@
   'Your Email' => 'あなたのメールアドレス',
   'group' => 'グループ',
   'i18n' => '多言語化',
+  'Action verification' => 'アクションの確認',
+  'Please enter your password to verify this action' => 'このアクションを確認するためにパスワードを入力してください',
 );

@@ -320,4 +320,6 @@
   'Your Email' => 'Ваш Email',
   'group' => 'група',
   'i18n' => 'i18n',
+  'Action verification' => 'Підтвердження дії',
+  'Please enter your password to verify this action' => 'Будь ласка, введіть пароль для підтвердження цієї дії',
 );

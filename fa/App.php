@@ -320,4 +320,6 @@
   'Your Email' => 'ایمیل شما',
   'group' => 'گروه',
   'i18n' => 'i18n',
+  'Action verification' => 'تایید عملیات',
+  'Please enter your password to verify this action' => 'لطفا برای تایید این عملیات رمز عبور خود را وارد کنید',
 );

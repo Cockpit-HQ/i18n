@@ -320,4 +320,6 @@
   'Your Email' => 'Sähköpostisi',
   'group' => 'ryhmä',
   'i18n' => 'i18n',
+  'Action verification' => 'Toiminnon vahvistus',
+  'Please enter your password to verify this action' => 'Anna salasanasi vahvistaaksesi tämän toiminnon',
 );

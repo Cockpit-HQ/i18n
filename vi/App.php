@@ -320,4 +320,6 @@
   'Your Email' => 'Email của bạn',
   'group' => 'nhóm',
   'i18n' => 'i18n',
+  'Action verification' => 'Xác minh hành động',
+  'Please enter your password to verify this action' => 'Vui lòng nhập mật khẩu của bạn để xác minh hành động này',
 );

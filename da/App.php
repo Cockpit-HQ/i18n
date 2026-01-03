@@ -320,4 +320,6 @@
   'Your Email' => 'Din E-mail',
   'group' => 'gruppe',
   'i18n' => 'i18n',
+  'Action verification' => 'Handlingsbekræftelse',
+  'Please enter your password to verify this action' => 'Indtast venligst din adgangskode for at bekræfte denne handling',
 );

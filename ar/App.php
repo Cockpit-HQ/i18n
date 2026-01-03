@@ -320,4 +320,6 @@
   'Your Email' => 'بريدك الإلكتروني',
   'group' => 'مجموعة',
   'i18n' => 'تدويل',
+  'Action verification' => 'التحقق من الإجراء',
+  'Please enter your password to verify this action' => 'الرجاء إدخال كلمة المرور لتأكيد هذا الإجراء',
 );

@@ -320,4 +320,6 @@
   'Your Email' => 'Seu E-mail',
   'group' => 'grupo',
   'i18n' => 'i18n',
+  'Action verification' => 'Verificação de ação',
+  'Please enter your password to verify this action' => 'Por favor, insira sua senha para verificar esta ação',
 );

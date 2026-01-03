@@ -319,4 +319,6 @@
   'Your Email' => 'Ihre E-Mail',
   'group' => 'Gruppe',
   'i18n' => 'i18n',
+  'Action verification' => 'Aktionsbestätigung',
+  'Please enter your password to verify this action' => 'Bitte geben Sie Ihr Passwort ein, um diese Aktion zu bestätigen',
 ];

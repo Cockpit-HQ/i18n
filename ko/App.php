@@ -320,4 +320,6 @@
   'Your Email' => '이메일 주소',
   'group' => '그룹',
   'i18n' => '다국어 지원',
+  'Action verification' => '작업 확인',
+  'Please enter your password to verify this action' => '이 작업을 확인하려면 비밀번호를 입력하세요',
 );

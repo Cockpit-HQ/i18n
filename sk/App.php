@@ -320,4 +320,6 @@
   'Your Email' => 'Váš Email',
   'group' => 'skupina',
   'i18n' => 'i18n',
+  'Action verification' => 'Overenie akcie',
+  'Please enter your password to verify this action' => 'Zadajte prosím heslo na overenie tejto akcie',
 );

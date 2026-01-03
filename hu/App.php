@@ -320,4 +320,6 @@
   'Your Email' => 'Az Ön e-mail címe',
   'group' => 'csoport',
   'i18n' => 'i18n',
+  'Action verification' => 'Művelet megerősítése',
+  'Please enter your password to verify this action' => 'Kérjük, adja meg jelszavát a művelet megerősítéséhez',
 );
