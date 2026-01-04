@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'Добавить колонку',
   'Add component' => 'Добавить компонент',
   'Add component from clipboard' => 'Добавить компонент из буфера',
@@ -41,4 +41,10 @@
   'Template updated!' => 'Шаблон обновлен!',
   'Update component' => 'Обновить компонент',
   'Update template' => 'Обновить шаблон',
-);
+  'Clipboard' => 'Буфер обмена',
+  'Clipboard is empty' => 'Буфер обмена пуст',
+  'Clear history' => 'Очистить историю',
+  'Components Clipboard' => 'Буфер компонентов',
+  'Filter components...' => 'Фильтр компонентов...',
+  'All types' => 'Все типы',
+];

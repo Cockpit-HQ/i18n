@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'Tilføj kolonne',
   'Add component' => 'Tilføj komponent',
   'Add component from clipboard' => 'Tilføj komponent fra udklipsholder',
@@ -41,4 +41,10 @@
   'Template updated!' => 'Skabelon opdateret!',
   'Update component' => 'Opdater komponent',
   'Update template' => 'Opdater skabelon',
-);
+  'Clipboard' => 'Udklipsholder',
+  'Clipboard is empty' => 'Udklipsholderen er tom',
+  'Clear history' => 'Ryd historik',
+  'Components Clipboard' => 'Komponentudklipsholder',
+  'Filter components...' => 'Filtrer komponenter...',
+  'All types' => 'Alle typer',
+];

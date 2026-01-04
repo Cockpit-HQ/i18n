@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'Añadir columna',
   'Add component' => 'Añadir componente',
   'Add component from clipboard' => 'Añadir componente del portapapeles',
@@ -41,4 +41,10 @@
   'Template updated!' => '¡Plantilla actualizada!',
   'Update component' => 'Actualizar componente',
   'Update template' => 'Actualizar plantilla',
-);
+  'Clipboard' => 'Portapapeles',
+  'Clipboard is empty' => 'El portapapeles está vacío',
+  'Clear history' => 'Borrar historial',
+  'Components Clipboard' => 'Portapapeles de componentes',
+  'Filter components...' => 'Filtrar componentes...',
+  'All types' => 'Todos los tipos',
+];

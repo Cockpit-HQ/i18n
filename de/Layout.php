@@ -41,4 +41,10 @@
   'Template updated!' => 'Vorlage aktualisiert!',
   'Update component' => 'Komponente aktualisieren',
   'Update template' => 'Vorlage aktualisieren',
+  'Clipboard' => 'Zwischenablage',
+  'Clipboard is empty' => 'Zwischenablage ist leer',
+  'Clear history' => 'Verlauf löschen',
+  'Components Clipboard' => 'Komponenten-Zwischenablage',
+  'Filter components...' => 'Komponenten filtern...',
+  'All types' => 'Alle Typen',
 ];

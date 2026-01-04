@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'Legg til kolonne',
   'Add component' => 'Legg til komponent',
   'Add component from clipboard' => 'Legg til komponent fra utklippstavle',
@@ -41,4 +41,10 @@
   'Template updated!' => 'Mal oppdatert!',
   'Update component' => 'Oppdater komponent',
   'Update template' => 'Oppdater mal',
-);
+  'Clipboard' => 'Utklippstavle',
+  'Clipboard is empty' => 'Utklippstavlen er tom',
+  'Clear history' => 'Tøm logg',
+  'Components Clipboard' => 'Komponentutklippstavle',
+  'Filter components...' => 'Filtrer komponenter...',
+  'All types' => 'Alle typer',
+];

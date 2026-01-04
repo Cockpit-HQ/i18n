@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'Lisää sarake',
   'Add component' => 'Lisää komponentti',
   'Add component from clipboard' => 'Lisää komponentti leikepöydältä',
@@ -41,4 +41,10 @@
   'Template updated!' => 'Malli päivitetty!',
   'Update component' => 'Päivitä komponentti',
   'Update template' => 'Päivitä malli',
-);
+  'Clipboard' => 'Leikepöytä',
+  'Clipboard is empty' => 'Leikepöytä on tyhjä',
+  'Clear history' => 'Tyhjennä historia',
+  'Components Clipboard' => 'Komponenttien leikepöytä',
+  'Filter components...' => 'Suodata komponentit...',
+  'All types' => 'Kaikki tyypit',
+];

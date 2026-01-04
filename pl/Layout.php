@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'Dodaj kolumnę',
   'Add component' => 'Dodaj komponent',
   'Add component from clipboard' => 'Dodaj komponent ze schowka',
@@ -41,4 +41,10 @@
   'Template updated!' => 'Szablon zaktualizowany!',
   'Update component' => 'Aktualizuj komponent',
   'Update template' => 'Aktualizuj szablon',
-);
+  'Clipboard' => 'Schowek',
+  'Clipboard is empty' => 'Schowek jest pusty',
+  'Clear history' => 'Wyczyść historię',
+  'Components Clipboard' => 'Schowek komponentów',
+  'Filter components...' => 'Filtruj komponenty...',
+  'All types' => 'Wszystkie typy',
+];

@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'Sütun Ekle',
   'Add component' => 'Bileşen Ekle',
   'Add component from clipboard' => 'Panodan Bileşen Ekle',
@@ -41,4 +41,10 @@
   'Template updated!' => 'Şablon Güncellendi!',
   'Update component' => 'Bileşeni Güncelle',
   'Update template' => 'Şablonu Güncelle',
-);
+  'Clipboard' => 'Pano',
+  'Clipboard is empty' => 'Pano boş',
+  'Clear history' => 'Geçmişi temizle',
+  'Components Clipboard' => 'Bileşen Panosu',
+  'Filter components...' => 'Bileşenleri filtrele...',
+  'All types' => 'Tüm türler',
+];

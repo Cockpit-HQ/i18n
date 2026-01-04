@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'Adicionar coluna',
   'Add component' => 'Adicionar componente',
   'Add component from clipboard' => 'Adicionar componente da área de transferência',
@@ -41,4 +41,10 @@
   'Template updated!' => 'Modelo atualizado!',
   'Update component' => 'Atualizar componente',
   'Update template' => 'Atualizar modelo',
-);
+  'Clipboard' => 'Área de transferência',
+  'Clipboard is empty' => 'A área de transferência está vazia',
+  'Clear history' => 'Limpar histórico',
+  'Components Clipboard' => 'Área de transferência de componentes',
+  'Filter components...' => 'Filtrar componentes...',
+  'All types' => 'Todos os tipos',
+];

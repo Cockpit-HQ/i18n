@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'Ajouter une colonne',
   'Add component' => 'Ajouter un composant',
   'Add component from clipboard' => 'Ajouter un composant depuis le presse-papiers',
@@ -41,4 +41,10 @@
   'Template updated!' => 'Modèle mis à jour !',
   'Update component' => 'Mettre à jour le composant',
   'Update template' => 'Mettre à jour le modèle',
-);
+  'Clipboard' => 'Presse-papiers',
+  'Clipboard is empty' => 'Le presse-papiers est vide',
+  'Clear history' => 'Effacer l\'historique',
+  'Components Clipboard' => 'Presse-papiers des composants',
+  'Filter components...' => 'Filtrer les composants...',
+  'All types' => 'Tous les types',
+];

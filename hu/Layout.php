@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'Oszlop hozzáadása',
   'Add component' => 'Komponens hozzáadása',
   'Add component from clipboard' => 'Komponens hozzáadása a vágólapról',
@@ -41,4 +41,10 @@
   'Template updated!' => 'Sablon frissítve!',
   'Update component' => 'Komponens frissítése',
   'Update template' => 'Sablon frissítése',
-);
+  'Clipboard' => 'Vágólap',
+  'Clipboard is empty' => 'A vágólap üres',
+  'Clear history' => 'Előzmények törlése',
+  'Components Clipboard' => 'Összetevők vágólapja',
+  'Filter components...' => 'Összetevők szűrése...',
+  'All types' => 'Minden típus',
+];

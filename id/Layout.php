@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'Tambah kolom',
   'Add component' => 'Tambah komponen',
   'Add component from clipboard' => 'Tambah komponen dari papan klip',
@@ -41,4 +41,10 @@
   'Template updated!' => 'Templat diperbarui!',
   'Update component' => 'Perbarui komponen',
   'Update template' => 'Perbarui templat',
-);
+  'Clipboard' => 'Papan Klip',
+  'Clipboard is empty' => 'Papan klip kosong',
+  'Clear history' => 'Hapus riwayat',
+  'Components Clipboard' => 'Papan Klip Komponen',
+  'Filter components...' => 'Filter komponen...',
+  'All types' => 'Semua tipe',
+];

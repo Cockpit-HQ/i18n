@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => '列を追加',
   'Add component' => 'コンポーネントを追加',
   'Add component from clipboard' => 'クリップボードからコンポーネントを追加',
@@ -41,4 +41,10 @@
   'Template updated!' => 'テンプレートを更新しました！',
   'Update component' => 'コンポーネントを更新',
   'Update template' => 'テンプレートを更新',
-);
+  'Clipboard' => 'クリップボード',
+  'Clipboard is empty' => 'クリップボードは空です',
+  'Clear history' => '履歴をクリア',
+  'Components Clipboard' => 'コンポーネントクリップボード',
+  'Filter components...' => 'コンポーネントをフィルタ...',
+  'All types' => 'すべてのタイプ',
+];

@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'Přidat sloupec',
   'Add component' => 'Přidat komponentu',
   'Add component from clipboard' => 'Přidat komponentu ze schránky',
@@ -41,4 +41,10 @@
   'Template updated!' => 'Šablona aktualizována!',
   'Update component' => 'Aktualizovat komponentu',
   'Update template' => 'Aktualizovat šablonu',
-);
+  'Clipboard' => 'Schránka',
+  'Clipboard is empty' => 'Schránka je prázdná',
+  'Clear history' => 'Vymazat historii',
+  'Components Clipboard' => 'Schránka komponent',
+  'Filter components...' => 'Filtrovat komponenty...',
+  'All types' => 'Všechny typy',
+];

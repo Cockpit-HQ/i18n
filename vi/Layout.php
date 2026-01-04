@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'Thêm cột',
   'Add component' => 'Thêm thành phần',
   'Add component from clipboard' => 'Thêm thành phần từ bộ nhớ tạm',
@@ -41,4 +41,10 @@
   'Template updated!' => 'Đã cập nhật mẫu!',
   'Update component' => 'Cập nhật thành phần',
   'Update template' => 'Cập nhật mẫu',
-);
+  'Clipboard' => 'Bảng tạm',
+  'Clipboard is empty' => 'Bảng tạm trống',
+  'Clear history' => 'Xóa lịch sử',
+  'Components Clipboard' => 'Bảng tạm thành phần',
+  'Filter components...' => 'Lọc thành phần...',
+  'All types' => 'Tất cả các loại',
+];

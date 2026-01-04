@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => '添加列',
   'Add component' => '添加组件',
   'Add component from clipboard' => '从剪贴板添加组件',
@@ -41,4 +41,10 @@
   'Template updated!' => '模板已更新！',
   'Update component' => '更新组件',
   'Update template' => '更新模板',
-);
+  'Clipboard' => '剪贴板',
+  'Clipboard is empty' => '剪贴板为空',
+  'Clear history' => '清除历史',
+  'Components Clipboard' => '组件剪贴板',
+  'Filter components...' => '筛选组件...',
+  'All types' => '所有类型',
+];

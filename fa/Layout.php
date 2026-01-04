@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'افزودن ستون',
   'Add component' => 'افزودن کامپوننت',
   'Add component from clipboard' => 'افزودن کامپوننت از کلیپ‌بورد',
@@ -41,4 +41,10 @@
   'Template updated!' => 'قالب بروزرسانی شد!',
   'Update component' => 'بروزرسانی کامپوننت',
   'Update template' => 'بروزرسانی قالب',
-);
+  'Clipboard' => 'کلیپ‌بورد',
+  'Clipboard is empty' => 'کلیپ‌بورد خالی است',
+  'Clear history' => 'پاک کردن تاریخچه',
+  'Components Clipboard' => 'کلیپ‌بورد مؤلفه‌ها',
+  'Filter components...' => 'فیلتر مؤلفه‌ها...',
+  'All types' => 'همه انواع',
+];

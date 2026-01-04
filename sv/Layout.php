@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'Lägg till kolumn',
   'Add component' => 'Lägg till komponent',
   'Add component from clipboard' => 'Lägg till komponent från urklipp',
@@ -41,4 +41,10 @@
   'Template updated!' => 'Mall uppdaterad!',
   'Update component' => 'Uppdatera komponent',
   'Update template' => 'Uppdatera mall',
-);
+  'Clipboard' => 'Urklipp',
+  'Clipboard is empty' => 'Urklipp är tomt',
+  'Clear history' => 'Rensa historik',
+  'Components Clipboard' => 'Komponenturklipp',
+  'Filter components...' => 'Filtrera komponenter...',
+  'All types' => 'Alla typer',
+];

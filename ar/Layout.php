@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'إضافة عمود',
   'Add component' => 'إضافة مكون',
   'Add component from clipboard' => 'إضافة مكون من الحافظة',
@@ -41,4 +41,10 @@
   'Template updated!' => 'تم تحديث القالب!',
   'Update component' => 'تحديث المكون',
   'Update template' => 'تحديث القالب',
-);
+  'Clipboard' => 'الحافظة',
+  'Clipboard is empty' => 'الحافظة فارغة',
+  'Clear history' => 'مسح السجل',
+  'Components Clipboard' => 'حافظة المكونات',
+  'Filter components...' => 'تصفية المكونات...',
+  'All types' => 'كل الأنواع',
+];

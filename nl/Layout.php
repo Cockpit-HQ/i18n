@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'Kolom toevoegen',
   'Add component' => 'Component toevoegen',
   'Add component from clipboard' => 'Component van klembord toevoegen',
@@ -41,4 +41,10 @@
   'Template updated!' => 'Sjabloon bijgewerkt!',
   'Update component' => 'Component bijwerken',
   'Update template' => 'Sjabloon bijwerken',
-);
+  'Clipboard' => 'Klembord',
+  'Clipboard is empty' => 'Klembord is leeg',
+  'Clear history' => 'Geschiedenis wissen',
+  'Components Clipboard' => 'Componenten klembord',
+  'Filter components...' => 'Componenten filteren...',
+  'All types' => 'Alle types',
+];

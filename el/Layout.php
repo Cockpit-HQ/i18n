@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'Προσθήκη στήλης',
   'Add component' => 'Προσθήκη στοιχείου',
   'Add component from clipboard' => 'Προσθήκη στοιχείου από το πρόχειρο',
@@ -41,4 +41,10 @@
   'Template updated!' => 'Το πρότυπο ενημερώθηκε!',
   'Update component' => 'Ενημέρωση στοιχείου',
   'Update template' => 'Ενημέρωση προτύπου',
-);
+  'Clipboard' => 'Πρόχειρο',
+  'Clipboard is empty' => 'Το πρόχειρο είναι άδειο',
+  'Clear history' => 'Εκκαθάριση ιστορικού',
+  'Components Clipboard' => 'Πρόχειρο εξαρτημάτων',
+  'Filter components...' => 'Φιλτράρισμα εξαρτημάτων...',
+  'All types' => 'Όλοι οι τύποι',
+];

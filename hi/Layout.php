@@ -1,4 +1,4 @@
-<?php return array (
+<?php return [
   'Add column' => 'कॉलम जोड़ें',
   'Add component' => 'घटक जोड़ें',
   'Add component from clipboard' => 'क्लिपबोर्ड से घटक जोड़ें',
@@ -41,4 +41,10 @@
   'Template updated!' => 'टेम्प्लेट अपडेट किया गया!',
   'Update component' => 'घटक अपडेट करें',
   'Update template' => 'टेम्प्लेट अपडेट करें',
-);
+  'Clipboard' => 'क्लिपबोर्ड',
+  'Clipboard is empty' => 'क्लिपबोर्ड खाली है',
+  'Clear history' => 'इतिहास साफ़ करें',
+  'Components Clipboard' => 'घटक क्लिपबोर्ड',
+  'Filter components...' => 'घटकों को फ़िल्टर करें...',
+  'All types' => 'सभी प्रकार',
+];
